@@ -1,0 +1,27 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "work@justlex.com",
+    "longName": "No Sleep Watch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Untitled-2.png",
+                "menuIcon": true,
+                "name": "logo",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "No Sleep Watch",
+    "uuid": "07080c11-1ef4-4599-938b-d3e01963b5ec",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
